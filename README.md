@@ -25,12 +25,13 @@ Place a content image in images/content.jpg
 Place a style image in images/style.jpg
 
 ### ▶️ 3. Run the script
-python style_transfer.py
+python style_transfer.py<br>
 Final stylized image will be saved in output/stylized_output.jpg
 
 ---
 
 ## 🗂️ Project Structure
+<code>
 PRODIGY_GA_05/
 ├── images/
 │   ├── content.jpg
@@ -40,14 +41,15 @@ PRODIGY_GA_05/
 ├── style_transfer.py
 ├── requirements.txt
 └── README.md
+</code>
 
 ---
 
 ## 🧠 How It Works
 The model:
-1. Uses a pre-trained VGG19 network
-2. Preserves content from the input image
-3. Applies artistic style from the style image via Gram matrices
+1. Uses a pre-trained VGG19 network<br>
+2. Preserves content from the input image<br>
+3. Applies artistic style from the style image via Gram matrices<br>
 
 ---
 

@@ -6,7 +6,7 @@ This project applies the artistic style of a famous painting (like *Starry Night
 
 ## 📷 Example Output
 
-> 🎨 Style: Starry Night  
+> 🎨 Style: Starry Night by Van Gogh
 > 🖼️ Content: Taj Mahal  
 > 💡 Output:
 

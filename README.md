@@ -25,7 +25,7 @@ Place a content image in images/content.jpg
 Place a style image in images/style.jpg
 
 ### ▶️ 3. Run the script
-python style_transfer.py\n
+python style_transfer.py
 Final stylized image will be saved in output/stylized_output.jpg
 
 ---

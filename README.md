@@ -19,22 +19,16 @@ This project applies the artistic style of a famous painting (like *Starry Night
 ### 🧾 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-🖼️ 2. Add your images
+### 🖼️ 2. Add your images
 Place a content image in images/content.jpg
 
 Place a style image in images/style.jpg
 
-▶️ 3. Run the script
-bash
-Copy
-Edit
+### ▶️ 3. Run the script
 python style_transfer.py
 Final stylized image will be saved in output/stylized_output.jpg
 
-🗂️ Project Structure
-css
-Copy
-Edit
+## 🗂️ Project Structure
 PRODIGY_GA_05/
 ├── images/
 │   ├── content.jpg
@@ -44,14 +38,12 @@ PRODIGY_GA_05/
 ├── style_transfer.py
 ├── requirements.txt
 └── README.md
-🧠 How It Works
+
+## 🧠 How It Works
 The model:
+1. Uses a pre-trained VGG19 network
+2. Preserves content from the input image
+3. Applies artistic style from the style image via Gram matrices
 
-Uses a pre-trained VGG19 network
-
-Preserves content from the input image
-
-Applies artistic style from the style image via Gram matrices
-
-🚀 Credits
+## 🚀 Credits
 Developed as part of the Prodigy InfoTech Internship.

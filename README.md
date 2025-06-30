@@ -4,8 +4,9 @@ This project applies the artistic style of a famous painting (like *Starry Night
 
 ---
 
-## [![Try it online](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
+## Live Demo
+[![Try it online](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app) <br>
+> No setup needed – it runs entirely in the browser!
 
 ## 📷 Example Output
 

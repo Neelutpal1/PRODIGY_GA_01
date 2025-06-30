@@ -18,7 +18,7 @@ This project applies the artistic style of a famous painting (like *Starry Night
 
 ---
 
-## 🛠️ How to Run
+## 🛠️ How to Run locally
 
 ### 🧾 1. Install dependencies
 pip install -r requirements.txt

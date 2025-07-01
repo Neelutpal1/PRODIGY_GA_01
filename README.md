@@ -1,4 +1,4 @@
-# 🖼️ PRODIGY_GA_05 – Neural Style Transfer with PyTorch
+# Neural Style Transfer with PyTorch
 
 This project applies the artistic style of a famous painting (like *Starry Night*) to a target content image (like a photo of a person or landmark), using **Neural Style Transfer (NST)** with PyTorch.
 

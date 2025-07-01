@@ -54,8 +54,3 @@ The model:
 1. Uses a pre-trained VGG19 network<br>
 2. Preserves content from the input image<br>
 3. Applies artistic style from the style image via Gram matrices<br>
-
----
-
-## 🚀 Credits
-Developed as part of the Prodigy InfoTech Internship.
